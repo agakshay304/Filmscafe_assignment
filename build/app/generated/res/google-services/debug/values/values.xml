@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">655087923624-k07lojd4ocq2uhi2dbpksn8qicv7c7gj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">655087923624</string>
+    <string name="google_api_key" translatable="false">AIzaSyDDgLY-ho0Vg2Xlt1qLOIGDkEYs_JTj9VQ</string>
+    <string name="google_app_id" translatable="false">1:655087923624:android:312adc87ccd51580cbed9d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDDgLY-ho0Vg2Xlt1qLOIGDkEYs_JTj9VQ</string>
+    <string name="google_storage_bucket" translatable="false">lapcare-338db.appspot.com</string>
+    <string name="project_id" translatable="false">lapcare-338db</string>
+</resources>

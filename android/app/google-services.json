@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "655087923624",
+    "project_id": "lapcare-338db",
+    "storage_bucket": "lapcare-338db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655087923624:android:312adc87ccd51580cbed9d",
+        "android_client_info": {
+          "package_name": "com.example.lapcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655087923624-k07lojd4ocq2uhi2dbpksn8qicv7c7gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDgLY-ho0Vg2Xlt1qLOIGDkEYs_JTj9VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655087923624-k07lojd4ocq2uhi2dbpksn8qicv7c7gj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655087923624-5e2i5rqtnovlqin5aql9r0471cr3dfe6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lapcare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
